@@ -1,4 +1,4 @@
-package logs.loglog;
+package br.ufpr.dinf.gres.loglog;
 
 import java.util.Collections;
 import java.util.LinkedList;

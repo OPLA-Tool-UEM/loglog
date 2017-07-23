@@ -1,4 +1,4 @@
-package logs.loglog;
+package br.ufpr.dinf.gres.loglog;
 
 public abstract interface Listener {
 	
