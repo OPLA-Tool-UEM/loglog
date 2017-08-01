@@ -14,26 +14,26 @@ Para utilização devem ser configurados repositório remoto e dependência conf
 
 ```xml
 
-    <repository>
-			<id>bintray-godoy-opla-tool</id>
-			<name>bintray</name>
-			<url>http://dl.bintray.com/godoy/opla-tool</url>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-			<releases>
-				<enabled>false</enabled>
-			</releases>
-		</repository>
+<repository>
+	<id>bintray-godoy-opla-tool</id>
+	<name>bintray</name>
+	<url>http://dl.bintray.com/godoy/opla-tool</url>
+	<snapshots>
+		<enabled>true</enabled>
+	</snapshots>
+	<releases>
+		<enabled>false</enabled>
+	</releases>
+</repository>
 
 ```
 #### Declaração de dependência
 
 ```xml
-  <dependency>
-    <groupId>br.ufpr.dinf.gres</groupId>
-    <artifactId>loglog</artifactId>
-    <version>0.0.1</version>
-  </dependency>
+<dependency>
+	<groupId>br.ufpr.dinf.gres</groupId>
+	<artifactId>loglog</artifactId>
+	<version>0.0.1</version>
+</dependency>
 
 ```
