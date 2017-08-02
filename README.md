@@ -1,6 +1,7 @@
 # Log Log 
 
 Biblioteca reconstruída a partir do arquivo Jar
+
 Versão disponível em: https://bintray.com/godoy/opla-tool/loglog
 
 # Forma de utilização
